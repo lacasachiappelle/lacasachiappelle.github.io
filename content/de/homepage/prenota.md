@@ -1,5 +1,5 @@
 ---
-title: "Prenota con noi"
+title: "Buchen Sie bei uns"
 weight: 2
 header_menu: true
 ---
