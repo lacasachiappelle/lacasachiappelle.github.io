@@ -18,5 +18,5 @@ header_menu: true
 {{< icon name="fa-solid fa-mug-hot">}} Macchina del caffe \
 {{< icon name="fa-solid fa-bread-slice">}} Tostapane 
 
-**Percorsi ciclabili in Mountain bike sono un appuntamento da non perdere** per immergersi appieno nella natura langarola. **Rental e-bike in prossimità** (info in mail privata).
+<!-- **Percorsi ciclabili in Mountain bike sono un appuntamento da non perdere** per immergersi appieno nella natura langarola. **Rental e-bike in prossimità** (info in mail privata). -->
 
