@@ -5,6 +5,8 @@ navigation_menu_title: "Attivitá"
 header_menu: true
 ---
 
+![activities](/images/activities.png)
+
 Colline ondulate,  paesaggi mozzafiato ed atmosfera tranquilla.
 *La Casa Chiappelle* è un'Oasi di relax: immagina di **sdraiarti sul prato**, in una calda sera d'estate, mentre ascolti il coro delle rane nel fiume immerso nella quiete. Con lo **sguardo rivolto verso il cielo**, puoi ammirare le stelle cadenti, regalandoti **momenti di pura magia**.
 
