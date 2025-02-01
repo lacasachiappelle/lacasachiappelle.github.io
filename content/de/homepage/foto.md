@@ -1,7 +1,7 @@
 ---
-title: "Foto"
+title: "Fotos"
 weight: 3
-navigation_menu_title: "Foto"
+navigation_menu_title: "Fotos"
 header_menu: true
 ---
 
