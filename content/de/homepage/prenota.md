@@ -3,7 +3,6 @@ title: "Prenota con noi"
 weight: 2
 header_menu: true
 ---
-**Perché prenotare con noi?** Risparmia prenotando ai prezzi più bassi, senza costi di intermediazione aggiunti!
- **Miglior prezzo garantito.**
+**Warum bei uns buchen?** Sie sparen, indem Sie direkt bei uns buchen, ohne zusätzliche Vermittlungsgebühren! **Bestpreis-Garantie.**
 
-Chiedi supporto direttamente noi e ottieni una risposta immediata. **Contatto diretto** tramite messaggio  Whatsapp **+39 335 6705976** o mail **lacasachiappelle@gmail.com**
+Fragen Sie uns direkt um Unterstützung und erhalten Sie sofortige Antworten. **Direkter Kontakt** über WhatsApp-Nachricht an **+39 335 6705976** oder per E-Mail an **lacasachiappelle@gmail.com**.

@@ -1,5 +1,5 @@
 ---
-title: "Benvenuti"
+title: "Bienvenue"
 weight: 1
 ---
 
