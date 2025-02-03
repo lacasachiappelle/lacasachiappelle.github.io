@@ -4,6 +4,7 @@ weight: 7
 navigation_menu_title: "Toimintaa "
 header_menu: true
 ---
+![activities](/images/activities_fi.png)
 
 Aaltoilevat kukkulat, henkeäsalpaavat maisemat ja rauhallinen tunnelma. *La Casa Chiappelle* on rentoutumisen keidas: kuvittele makaavasi nurmikolla lämpimänä kesäiltana. Joki solisee hiljaa vieressä, ja sammakot kurnuttavat yössä. Taivaalla tähdet vilkkuvat, ja silloin tällöin näet tähdenlennon, hetken katoavan valon. 
 

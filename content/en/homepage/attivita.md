@@ -4,6 +4,7 @@ weight: 7
 navigation_menu_title: "Activities"
 header_menu: true
 ---
+![activities](/images/activities_en.png)
 
 Rolling hills, breathtaking landscapes, and a tranquil atmosphere.  
 *La Casa Chiappelle* is an oasis of relaxation: imagine **lying on the grass** on a warm summer evening, listening to the chorus of frogs in the river immersed in quiet. With your **gaze turned towards the sky**, you can admire the shooting stars, gifting you **moments of pure magic**.

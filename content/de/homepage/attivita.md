@@ -4,6 +4,7 @@ weight: 7
 navigation_menu_title: "Aktivitäten"
 header_menu: true
 ---
+![activities](/images/activities_de.png)
 
 Hügelige Landschaften, atemberaubende Ausblicke und eine ruhige Atmosphäre.  
 *La Casa Chiappelle* ist eine Oase der Entspannung: Stell dir vor, du **liegst auf der Wiese** an einem warmen Sommerabend, während du dem Chor der Frösche im Fluss zuhörst, der in der Stille liegt. Mit dem **Blick gen Himmel** kannst du die Sternschnuppen bewundern und dir **Momente der puren Magie** schenken.

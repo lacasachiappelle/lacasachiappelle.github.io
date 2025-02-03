@@ -4,6 +4,7 @@ weight: 7
 navigation_menu_title: "Activités"
 header_menu: true
 ---
+![activities](/images/activities_fr.png)
 
 Collines ondulées, paysages à couper le souffle et atmosphère tranquille.  
 *La Casa Chiappelle* est une oasis de détente: imagine **t'allonger sur l'herbe**, lors d'une chaude soirée d'été, en écoutant le chœur des grenouilles dans la rivière plongée dans le calme. Avec les **yeux tournés vers le ciel**, tu peux admirer les étoiles filantes, t'offrant **des moments de pure magie**.
