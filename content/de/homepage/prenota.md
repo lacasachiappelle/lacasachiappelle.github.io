@@ -3,6 +3,6 @@ title: "Buchen Sie bei uns"
 weight: 2
 header_menu: true
 ---
-**Warum bei uns buchen?** Sie sparen, indem Sie direkt bei uns buchen, ohne zusätzliche Vermittlungsgebühren! **Bestpreis-Garantie.**
+"**Buchen Sie direkt bei uns**, um einen niedrigeren Preis ohne zusätzliche Vermittlungsgebühren zu erhalten! Auf Wunsch geben wir Ihnen auch Empfehlungen für Weingüter und Restaurants in der Umgebung.
 
-Fragen Sie uns direkt um Unterstützung und erhalten Sie sofortige Antworten. **Direkter Kontakt** über WhatsApp-Nachricht an **+39 335 6705976** oder per E-Mail an **lacasachiappelle@gmail.com**.
+Für weitere Informationen kontaktieren Sie uns bitte per WhatsApp-Nachricht unter **+39 335 6705976** oder per E-Mail unter **lacasachiappelle@gmail.com**."

@@ -3,7 +3,7 @@ title: "Varaa meiltä"
 weight: 2
 header_menu: true
 ---
-**Miksi varata meiltä?** Säästä varaamalla alhaisimpaan hintaan ilman ylimääräisiä välityspalkkioita!
-**Paras hinta taattu.**
+**Varaamalta suoraan meiltä** saat alhaisemman hinnan ilman ylimääräisiä välityspalkkioita!
+Halutessasi annamme myös suosituksia alueen viinitiloista ja ravintoloista.
 
-Pyydä tukea suoraan meiltä ja saat välittömän vastauksen. **Suora yhteys** WhatsApp-viestillä **+358 400782428** tai sähköpostitse **info@latartufata.fi**.
+Kysy lisätietoa puhelimitse **+358 400782428** tai sähköpostitse **info@latartufata.fi** .

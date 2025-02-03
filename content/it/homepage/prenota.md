@@ -3,7 +3,6 @@ title: "Prenota con noi"
 weight: 2
 header_menu: true
 ---
-**Perché prenotare con noi?** Risparmia prenotando ai prezzi più bassi, senza costi di intermediazione aggiunti!
- **Miglior prezzo garantito.**
+"**Prenota direttamente da noi** per ottenere un prezzo più basso senza commissioni extra! Se lo desideri, ti forniamo anche raccomandazioni per cantine e ristoranti della zona.
 
-Chiedi supporto direttamente noi e ottieni una risposta immediata. **Contatto diretto** tramite messaggio  Whatsapp **+39 335 6705976** o mail **lacasachiappelle@gmail.com**
+Per ulteriori informazioni, contattaci via messaggio WhatsApp al **+39 335 6705976** o via email all'indirizzo **lacasachiappelle@gmail.com**."

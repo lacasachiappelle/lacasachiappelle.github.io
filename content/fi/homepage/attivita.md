@@ -5,21 +5,20 @@ navigation_menu_title: "Toimintaa "
 header_menu: true
 ---
 
-Aaltoilevat kukkulat, henkeäsalpaavat maisemat ja rauhallinen tunnelma.
-*La Casa Chiappelle* on rentoutumisen keidas: kuvittele **makaavasi nurmikolla** lämpimänä kesäiltana, kuunnellen sammakoiden konserttia hiljaisessa joessa. **Katsoessasi taivaalle**, voit ihailla tähdenlentoja, jotka tarjoavat sinulle **puhtaita taianomaisia hetkiä**.
+Aaltoilevat kukkulat, henkeäsalpaavat maisemat ja rauhallinen tunnelma. *La Casa Chiappelle* on rentoutumisen keidas: kuvittele makaavasi nurmikolla lämpimänä kesäiltana. Joki solisee hiljaa vieressä, ja sammakot kurnuttavat yössä. Taivaalla tähdet vilkkuvat, ja silloin tällöin näet tähdenlennon, hetken katoavan valon. 
 
-Alta Langassa **ruoka ja viini ovat ehdottomia pääosanesittäjiä**, ja niitä juhlitaan jokaisessa vivahteessaan.
-**Tuoreet tagliatellet**, rakkaudella ja taidolla valmistettuna, ovat täydellinen kangas, jonka päälle truffelilastut asettuvat sulautuen voin ja Parmigiano Reggianon kanssa, luoden makuja täynnä olevan sinfonian, joka valloittaa heti ensipuraisulla. Entäpä **plin-raviolit**, pienet lihalla täytetyt pastanyytit, jotka ovat täynnä perinnettä?
+Alta Langassa **ruoka ja viini ovat ehdottomia pääroolinesittäjiä**, ja niitä juhlitaan jokaisessa vivahteessaan. Tuore tagliatelle, rakkaudella ja taidolla valmistettuna, on täydellinen pohja, jolle asettuvat tryffelilastut sulautuen voihin ja Parmigiano Reggiano -juustoon, luoden makuja täynnä olevan sinfonian, joka valloittaa heti ensipuraisulla. Tai entäpä **plin-raviolit**, pienet lihalla täytetyt pastanyytit, jotka ovat täynnä perinnettä?
 
 **Jokainen vuodenaika Alta Langassa on ainutlaatuisen viehättävä ja tarjoaa unohtumattomia kokemuksia, tehden tästä alueesta ihanteellisen kohteen kauneuden, kulttuurin ja rentoutumisen etsijöille.**
 
-Keväällä Alta Langa herää eloon runsaine kukintoineen ja kävelyretkineen kukkivien peltojen tuoksuissa. Se on täydellinen hetki tutustua pikkukyliin ja tehdä vaelluksia kukkuloiden läpi kulkevilla luontopoluilla.
+**Keväällä Alta Langa** herää eloon runsain kukin ja kutsuu kävelyille, joilla voi uppoutua kukkivien peltojen tuoksuihin. Se on täydellinen aika tutkia pieniä kyliä ja vaeltaa kumpuilevia kukkuloita halkovia luontopolkuja pitkin.
 
-Kesällä illat elävöityvät kulttuuritapahtumilla, kuten **Bergolon** "Kiven äänet" -konserteilla. Tämä viehättävä kylä kivikatuisineen ja erikoisine kivitaloineen muuttuu **näyttämöksi taiteilijoille ja muusikoille** eri tyylilajeista, tarjoten ainutkertaisia esityksiä viehättävässä ympäristössä. Kylässä ja sen eri taloissa esillä olevat taideteokset tarjoavat lisäinspiraatiota taiteen ja kulttuurin ystäville.
+**Kesällä** illat täyttyvät kulttuuritapahtumista, kuten *I Suoni della Pietra* -konserteista Bergolossa. Tämä viehättävä kylä, mukulakivikatuineen ja perinteisine kivitaloineen, muuttuu taiteilijoiden ja muusikoiden näyttämöksi, tarjoten ainutlaatuisia esityksiä kiehtovassa ympäristössä. Lisäksi kylässä ja sen taloissa esillä olevat taideteokset tarjoavat inspiraatiota kaikille taiteen ja kulttuurin ystäville.
 
-**Cortemilia**, tunnettu hasselpähkinäpääkaupunkina, muuttuu Alta Langan sykkiväksi sydämeksi **Kansainvälisen Hasselpähkinäjuhlan** ansiosta. Tämä tapahtuma juhlistaa alueen yhtä arvokkainta tuotetta maistiaisilla, markkinoilla ja aloitteilla, jotka korostavat Langhen hasselpähkinöiden laatua.
+Cortemilia, joka tunnetaan hasselpähkinän pääkaupunkina, muuttuu **Alta Langan** sykkiväksi sydämeksi kansainvälisen hasselpähkinäjuhlan myötä elokuussa. Tämä tapahtuma juhlistaa yhtä alueen arvokkaimmista tuotteista maistiaisten, markkinoiden ja erilaisten ohjelmien kautta, jotka korostavat Langhen hasselpähkinän ainutlaatuista laatua.
 
-Syksy Alta Langassa ei ole vain matkaa läpi syksyn maut, vaan täydellinen aistillinen kokemus, joka muuttaa jokaisen aterian juhlan ja löytämisen hetkeksi.
-**Alban Kansainvälinen Valkoisen Truffelin Messut** ovat väistämätön tapahtuma, joka houkuttelee intohimoisia ympäri maailmaa. Täällä **valkoinen tryffeli**, tunnistettavalla aromillaan ja intensiivisellä maullaan, nousee syksyisten pöytien kiistattomaksi kuninkaaksi. Alueen ravintolat kilpailevat tämän arvokkaan mukulan korostamisesta tarjoamalla ruokia, jotka jättävät unohtumattoman jäljen makumuistiin.
+**Alta Langan syksy** ei ole pelkästään makumatka, vaan kokonaisvaltainen elämys, joka tekee jokaisesta ateriasta juhlan ja löytöretken. **Alban kansainväliset tryffelifestivaalit** lokakuussa ovat tapahtuma, joka houkuttelee herkuttelijoita kaikkialta maailmasta. Täällä valkoinen tryffeli, sen ainutlaatuisen aromin ja voimakkaan maun ansiosta, nousee syksyn ehdottomaksi kuninkaaksi. Alueen ravintolat kilpailevat tarjotakseen parhaita annoksia, jotka jäävät lähtemättömästi mieleen.
 
-Lopuksi, talvi Alta Langassa tuo mukanaan rauhan ja pohdinnan ilmapiirin. Se on täydellinen kausi vetäytyä mukavaan turvapaikkaan, kuten *La Casa Chiappelle*, nauttien lumipeitteisen luonnon näkymistä ja maistaen tyypillisiä ruokia takkatulen lämmössä.
+Lopulta **Alta Langan talvi** tuo mukanaan rauhallisen ja tunnelmallisen ilmapiirin. Se on täydellinen
+vuodenaika vetäytyä viihtyisään majapaikkaan, kuten *La Casa Chiappelleen*, nauttimaan lumisista
+maisemista ja perinteisistä ruoista takkatulen lämmössä.

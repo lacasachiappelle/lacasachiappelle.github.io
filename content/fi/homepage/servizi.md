@@ -18,5 +18,6 @@ header_menu: true
 {{< icon name="fa-solid fa-mug-hot">}} Kahvinkeitin \
 {{< icon name="fa-solid fa-bread-slice">}} Leivänpaahdin 
 
-**Mountain bike -reitit ovat unohtumaton kokemus** eläytyäkseen täysin Langhan alueen luontoon. **E-bike-vuokraus lähistöllä** (info yksityisessä sähköpostissa).
+Alta Langan alueen luontoon pääset eläytymään **Mountain bike -reiteillä**. **Lähistöltä on
+vuokrattavissa sähköpyöriä** (lisätietoa pyydettäessä).
 
