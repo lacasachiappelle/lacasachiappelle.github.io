@@ -296,8 +296,24 @@ img[alt=ares] {
 
 
 img[alt=click] { 
-    width: 50px; 
+    width: 25px; 
     float: left;
     transform: scaleX(-1); 
 }
 
+img[alt=rental] { 
+    width: 32%; 
+    float: left; 
+    margin-right: 2px;
+}
+
+img[alt=chef] { 
+    width: 32%; 
+    float: left; 
+}
+
+img[alt=deg] { 
+    width: 32%; 
+    margin-right: 2px;
+    float: right; 
+}
