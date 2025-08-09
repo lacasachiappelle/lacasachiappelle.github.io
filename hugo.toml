@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = ["hugo-scroll", "hugo-shortcode-gallery"]
 
 # The browser tab name
-title = "La Casa Chiappelle - Vacanze in Langa"
+title = "La Casa Chiappelle - Langhe Vacation Rentals"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -41,7 +41,7 @@ enableEmoji = true
     title = "La Casa Chiappelle"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Langhe Vacation Rentals"
+    description = "Langhe Vacation Rentals with private Swimming Pool"
 
     # Show a menu of languages available
     language_menu = true
