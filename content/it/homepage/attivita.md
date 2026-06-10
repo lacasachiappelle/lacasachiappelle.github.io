@@ -1,6 +1,6 @@
 ---
 title: "Attivitá in alta langa"
-weight: 7
+weight: 8
 navigation_menu_title: "Attivitá"
 header_menu: true
 ---

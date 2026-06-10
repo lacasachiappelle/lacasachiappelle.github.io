@@ -1,6 +1,6 @@
 ---
 title: "Aktivitäten in Alta Langa"
-weight: 7
+weight: 8
 navigation_menu_title: "Aktivitäten"
 header_menu: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Hausservices"
-weight: 6
+weight: 7
 header_menu: true
 ---
 {{< icon name="swimming-pool">}} Freibad  

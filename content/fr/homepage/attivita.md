@@ -1,6 +1,6 @@
 ---
 title: "Activités en Alta Langa"
-weight: 7
+weight: 8
 navigation_menu_title: "Activités"
 header_menu: true
 ---

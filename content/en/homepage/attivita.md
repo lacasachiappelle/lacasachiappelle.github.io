@@ -1,6 +1,6 @@
 ---
 title: "Activities in alta langa"
-weight: 7
+weight: 8
 navigation_menu_title: "Activities"
 header_menu: true
 ---

@@ -2,7 +2,7 @@
 title: "Missä olemme"
 header_menu_title: "Missä olemme"
 navigation_menu_title: "Missä olemme"
-weight: 4
+weight: 5
 header_menu: true
 ---
 

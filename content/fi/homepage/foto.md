@@ -1,6 +1,6 @@
 ---
 title: "Valokuvat"
-weight: 3
+weight: 4
 navigation_menu_title: "Valokuvat"
 header_menu: true
 ---

@@ -2,7 +2,7 @@
 title: "Localisation"
 header_menu_title: "Où sommes nous"
 navigation_menu_title: "Localisation"
-weight: 4
+weight: 5
 header_menu: true
 ---
 

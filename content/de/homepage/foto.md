@@ -1,6 +1,6 @@
 ---
 title: "Fotos"
-weight: 3
+weight: 4
 navigation_menu_title: "Fotos"
 header_menu: true
 ---

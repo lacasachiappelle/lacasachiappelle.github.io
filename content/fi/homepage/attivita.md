@@ -1,6 +1,6 @@
 ---
 title: "Toimintaa Alta Langa"
-weight: 7
+weight: 8
 navigation_menu_title: "Toimintaa "
 header_menu: true
 ---
