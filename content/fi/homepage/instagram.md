@@ -1,5 +1,5 @@
- ---
-title: "Instagram"
+---
+title: "Videot"
 weight: 3
 ---
 
@@ -16,4 +16,4 @@ weight: 3
       <p class="placeholder-text">Tulossa pian...</p>
     </div>
   </div>
-</div> 
+</div>

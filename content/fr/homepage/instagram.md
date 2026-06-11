@@ -1,5 +1,5 @@
- ---
-title: "Instagram"
+---
+title: "Vidéos"
 weight: 3
 ---
 
@@ -16,4 +16,4 @@ weight: 3
       <p class="placeholder-text">Bientôt...</p>
     </div>
   </div>
-</div> 
+</div>
