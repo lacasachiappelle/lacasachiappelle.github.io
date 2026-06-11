@@ -1,0 +1,24 @@
+{{- $src := .Get "src" | default (.Get 0) -}}
+{{- $src = strings.TrimPrefix "assets/" $src -}}
+{{- $video := resources.Get $src -}}
+{{- if $video -}}
+  {{- $src = $video.RelPermalink -}}
+{{- else -}}
+  {{- $src = $src | relURL -}}
+{{- end -}}
+
+{{- $poster := .Get "poster" | default (.Get 1) -}}
+{{- if $poster -}}
+  {{- $poster = strings.TrimPrefix "assets/" $poster -}}
+  {{- $posterImg := resources.Get $poster -}}
+  {{- if $posterImg -}}
+    {{- $poster = $posterImg.RelPermalink -}}
+  {{- else -}}
+    {{- $poster = $poster | relURL -}}
+  {{- end -}}
+{{- end -}}
+
+<div class="video-container" style="max-width: 328px; width: 100%; height: 450px; border-radius: 3px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.15); background: #000; margin: 0 auto; display: flex; align-items: center; justify-content: center;">
+  <video src="{{ $src }}" {{ with $poster }}poster="{{ . }}"{{ end }} controls playsinline style="width: 100%; height: 100%; object-fit: cover; display: block;"></video>
+</div>
+

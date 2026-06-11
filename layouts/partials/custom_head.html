@@ -2,26 +2,71 @@
      Its content will appear before the closing </head>-tag -->
 
 
-<!-- Custom CSS via inline styles
-     You may use this template to add custom CSS to your site like so: -->
-<!--
+<!-- Custom CSS via inline styles -->
 <style>
-:root {
-    /* see variables.scss for more variables*/
+#instagram {
+  max-width: 700px;
+  width: 95%;
+}
 
-    /*
-    --section-light-text-color: #3a4145!important;
-    --section-light-bg-color: #ffdb8c!important;
-    --section-dark-bg-color: #035e00!important;
-    */
+.instagram-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: 100%;
+  margin: 20px 0;
+}
 
-     /* define list element for unnumbered lists, leave empty for default list element */
-     /* fa-asterisk is the default icon if this variable definition is missing completely */
-     --ul-li-icon: fa-dashcube;     /* this sets fa-dashcube as list icon */
-     --ul-li-icon: ;                /* this sets the default html list icon */
+.instagram-col {
+  flex: 1 1 200px;
+  max-width: 220px;
+  min-width: 180px;
+  display: flex;
+  justify-content: center;
+}
+
+.instagram-col iframe {
+  width: 100% !important;
+  min-width: 100% !important;
+  margin: 0 !important;
+}
+
+.instagram-placeholder {
+  width: 100%;
+  max-width: 220px;
+  height: 320px;
+  border: 1px solid #dbdbdb;
+  border-radius: 3px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.placeholder-icon {
+  font-size: 36px;
+  color: #e1306c;
+  margin-bottom: 10px;
+}
+
+.placeholder-text {
+  font-family: open sans, sans-serif;
+  font-size: 1.4rem;
+  color: #8e8e8e;
+  text-align: center;
+  margin: 0;
 }
 </style>
--->
+
+
+
 
 <!-- Custom CSS via "custom.css"-file
      If you would rather place your custom CSS into

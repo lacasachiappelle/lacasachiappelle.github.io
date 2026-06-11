@@ -141,5 +141,11 @@ enableEmoji = true
     languageName = "Finnish"
     contentDir = "content/fi"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 
 
